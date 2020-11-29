@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://hit.yhype.halp.im/github/profile?user_id=44757651)
 
 <!--
 **sgcm14/sgcm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
