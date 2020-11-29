@@ -92,7 +92,11 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="30" width="30">
   </a>
 
-  <a href="https://t.me/sgcm14" target="blank">
+<a href="https://www.duolingo.com/profile/sgcm14" target="blank">
+    <img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" height="30" width="30">
+  </a>
+  
+ <a href="https://t.me/sgcm14" target="blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="30" width="30">
   </a>
 
