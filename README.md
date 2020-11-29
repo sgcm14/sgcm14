@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <a> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a>
+    <!--<a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a>-->
     <a> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
