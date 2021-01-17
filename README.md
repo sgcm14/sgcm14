@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://hit.yhype.halp.im/github/profile?user_id=44757651)
+![](https://hit.yhype.me/github/profile?user_id=44757651)
 
 <h2 align="center">Sammy Gigi Cantoral Montejo (sgcm14)</h2>
 
