@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a><img src="https://edteam-media.s3.amazonaws.com/users/avatar/16f3b00c-18cf-43f5-af5f-f9692fa3e5f1.jpg"></a></p>
 
-<h3 align="center">Ingeniera de Sistemas e Informática Colegiada</h3>
+<h3 align="center">Ingeniera de Sistemas e Informática Colegiada - Frontend Developer</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{sgcm14}/count.svg"></p>
 
@@ -39,8 +39,12 @@ Here are some ideas to get you started:
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" width="40" height="40"/> </a> -->
     <!--<a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a>-->
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/javascript.svg" width="40" height="40"/> </a>
+    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/nodejs.svg" width="40" height="40"/> </a>
+    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/bootstrap.svg" width="40" height="40"/> </a>
+    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="40" height="40"/> </a>
+    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/wordpress.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="40" height="40"/> </a> -->
