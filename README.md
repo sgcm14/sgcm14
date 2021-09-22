@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a><img src="https://edteam-media.s3.amazonaws.com/users/avatar/16f3b00c-18cf-43f5-af5f-f9692fa3e5f1.jpg"></a></p>
 
-<h3 align="center">Ingeniera de Sistemas e Informática Colegiada - Frontend Developer</h3>
+<h3 align="center">Ingeniera de Sistemas e Informática Colegiada <br> Frontend Developer</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{sgcm14}/count.svg"></p>
 
@@ -45,18 +45,14 @@ Here are some ideas to get you started:
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/bootstrap.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/wordpress.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/php.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" width="40" height="40"/> </a> -->
 </p>
 
 <p align="center">
