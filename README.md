@@ -37,16 +37,16 @@ Here are some ideas to get you started:
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/html5.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/css3.svg" width="40" height="40"/> </a>
+    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/bootstrap.svg" width="40" height="40"/> </a>
+    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/sass.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" width="40" height="40"/> </a> -->
-    <!--<a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a>-->
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/javascript.svg" width="40" height="40"/> </a>
-    <a><img src="https://camo.githubusercontent.com/5c469f960af5ff1c614f4c749099933c9efeddd8c01882d6f1ef3316bbe9acc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667" width="40" height="40"/></a>
+    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/nodejs.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/bootstrap.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/wordpress.svg" width="40" height="40"/> </a>
+    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a> -->
+    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="40" height="40"/> </a>
