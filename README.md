@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Sammy Gigi Cantoral Montejo (sgcm14)</h2>
 
-<p align="center"><a><img src="https://edteam-media.s3.amazonaws.com/users/avatar/16f3b00c-18cf-43f5-af5f-f9692fa3e5f1.jpg"></a></p>
+<p align="center"><a><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/sammy.jpg"></a></p>
 
 <h3 align="center">Ingeniera de Sistemas e Informática Colegiada <br> Frontend Developer</h3>
 
