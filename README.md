@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/sammy.jpg" width="200"></a></p>
 
-<h3 align="center">Ingeniera de Sistemas e Informática Colegiada <br> Frontend Developer</h3>
+<h3 align="center">Ingeniera de Sistemas e Informática Colegiada <br> Frontend Developer - Angular </h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{sgcm14}/count.svg"></p>
 
