@@ -77,35 +77,35 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://linkedin.com/in/sgcm14/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/linkedin.svg" height="30" width="30">
   </a>
 
 <a href="https://www.instagram.com/sgcm14/" target="_blank">
-    <img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="30" width="30">
+    <img  src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/instagram.svg" height="30" width="30">
   </a>
 
   <a href="https://www.facebook.com/sgcm14" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/facebook.svg" height="30" width="30">
   </a>
 
   <a href="https://www.pinterest.com/sgcm14/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" height="30" width="30">
   </a>
 
   <a href="http://twitter.com/sgcm14" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/twitter.svg" height="30" width="30">
   </a>
 
 <a href="https://youtube.com/sgcm14" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/youtube.svg" height="30" width="30">
   </a>
 
 <a href="https://www.duolingo.com/profile/sgcm14" target="_blank">
-    <img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/duolingo.png" height="30" width="30">
   </a>
   
  <a href="https://t.me/sgcm14" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/telegram.svg" height="30" width="30">
   </a>
 
 </p>
