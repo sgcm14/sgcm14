@@ -31,27 +31,69 @@ Here are some ideas to get you started:
     <a href="https://www.microsoft.com/es-es/windows" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30"/>
     </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/git.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/github.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/figma.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/vscode.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/html5.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/css3.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/bootstrap.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/tailwindcss.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/sass.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/php.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/javascript.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/typescript.svg" width="40" height="40"/></a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/ruby.svg" width="40" height="40"/></a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/wordpress.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/nodejs.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/jest.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/angularjs.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="40" height="40"/> </a>
-    <a> <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="40" height="40"/> </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/git.svg" width="30" height="30"/>
+    </a>
+    <a  href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/github.svg" width="30" height="30"/>
+    </a>
+    <a  href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/figma.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/vscode.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/html5.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/css3.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/bootstrap.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/tailwindcss.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/sass.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/php.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/javascript.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/typescript.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/ruby.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/wordpress.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/nodejs.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/jest.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/angularjs.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30" height="30"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="30" height="30"/>
+    </a>
 
 </p>
 
@@ -65,40 +107,39 @@ Here are some ideas to get you started:
 
 <br>
 
- <h3 align="center">Follow me</h3>
+<h3 align="center">Follow me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sgcm14/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/linkedin.svg" height="30" width="30">
-  </a>
+      <a href="https://linkedin.com/in/sgcm14/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/linkedin.svg" height="30" width="30">
+      </a>
 
-<a href="https://www.instagram.com/sgcm14/" target="_blank">
-    <img  src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/instagram.svg" height="30" width="30">
-  </a>
+      <a href="https://www.instagram.com/sgcm14/" target="_blank">
+        <img  src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/instagram.svg" height="30" width="30">
+      </a>
 
-  <a href="https://www.facebook.com/sgcm14" target="_blank">
-    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/facebook.svg" height="30" width="30">
-  </a>
+      <a href="https://www.facebook.com/sgcm14" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/facebook.svg" height="30" width="30">
+      </a>
 
-  <a href="https://www.pinterest.com/sgcm14/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" height="30" width="30">
-  </a>
+      <a href="https://www.pinterest.com/sgcm14/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" height="30" width="30">
+      </a>
 
-  <a href="http://twitter.com/sgcm14" target="_blank">
-    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/twitter.svg" height="30" width="30">
-  </a>
+      <a href="http://twitter.com/sgcm14" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/twitter.svg" height="30" width="30">
+      </a>
 
-<a href="https://youtube.com/sgcm14" target="_blank">
-    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/youtube.svg" height="30" width="30">
-  </a>
+      <a href="https://youtube.com/sgcm14" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/youtube.svg" height="30" width="30">
+      </a>
 
-<a href="https://www.duolingo.com/profile/sgcm14" target="_blank">
-    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/duolingo.png" height="30" width="30">
-  </a>
-  
- <a href="https://t.me/sgcm14" target="_blank">
-    <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/telegram.svg" height="30" width="30">
-  </a>
+      <a href="https://www.duolingo.com/profile/sgcm14" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/duolingo.png" height="30" width="30">
+      </a>
 
+      <a href="https://t.me/sgcm14" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/telegram.svg" height="30" width="30">
+      </a>
 </p>
 
