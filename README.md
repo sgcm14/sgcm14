@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![](https://hit.yhype.me/github/profile?user_id=44757651)
 
-<h2 align="center">Sammy Gigi Cantoral Montejo (sgcm14)</h2>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%231891F7&lines=Sammy+Gigi+Cantoral+Montejo+(sgcm14)"></p>
 
 <p align="center"><a><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/sammy.jpg" width="200"></a></p>
 
