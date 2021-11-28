@@ -32,22 +32,22 @@ Here are some ideas to get you started:
     <a href="https://www.microsoft.com/es-es/windows" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30"/>
     </a>
-    <a  href="" target="_blank">
+    <a  href="https://www.atlassian.com/es/software/jira" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1370a6504cb1cca5ffce0a3eb67cbbb2c637b09a/jira.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/git.svg" width="30" height="30"/>
     </a>
-    <a  href="" target="_blank">
+    <a  href="https://github.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/github.svg" width="30" height="30"/>
     </a>
-    <a  href="" target="_blank">
+    <a  href="https://about.gitlab.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1370a6504cb1cca5ffce0a3eb67cbbb2c637b09a/gitlab.svg" width="30" height="30"/>
     </a>
-    <a  href="" target="_blank">
+    <a  href="https://www.figma.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/figma.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/vscode.svg" width="30" height="30"/>
     </a>
     <a href="" target="_blank">
@@ -56,49 +56,49 @@ Here are some ideas to get you started:
     <a href="" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/css3.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/bootstrap.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/tailwindcss.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://sass-lang.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/sass.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.java.com/es/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.php.net/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/php.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.javascript.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/javascript.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/typescript.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.ruby-lang.org/es/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/ruby.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://wordpress.com/es" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/wordpress.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://nodejs.org/es/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/nodejs.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.npmjs.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://jestjs.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/jest.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://angular.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/angularjs.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://firebase.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="30" height="30"/>
     </a>
 
