@@ -32,11 +32,17 @@ Here are some ideas to get you started:
     <a href="https://www.microsoft.com/es-es/windows" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30"/>
     </a>
+    <a  href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1370a6504cb1cca5ffce0a3eb67cbbb2c637b09a/jira.svg" width="30" height="30"/>
+    </a>
     <a href="" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/git.svg" width="30" height="30"/>
     </a>
     <a  href="" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/github.svg" width="30" height="30"/>
+    </a>
+    <a  href="" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1370a6504cb1cca5ffce0a3eb67cbbb2c637b09a/gitlab.svg" width="30" height="30"/>
     </a>
     <a  href="" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/figma.svg" width="30" height="30"/>
