@@ -32,6 +32,9 @@ Here are some ideas to get you started:
     <a href="https://www.microsoft.com/es-es/windows" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30"/>
     </a>
+    <a href="https://ubuntu.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/c8b99481dda545c8a48e272303856b8ef59a8617/ubuntu.svg" width="30" height="30"/>
+    </a>
     <a  href="https://www.atlassian.com/es/software/jira" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1370a6504cb1cca5ffce0a3eb67cbbb2c637b09a/jira.svg" width="30" height="30"/>
     </a>
