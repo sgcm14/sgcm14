@@ -107,6 +107,15 @@ Here are some ideas to get you started:
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="30" height="30"/>
     </a>
+    <a href="hhttps://tagmanager.google.com/" target="_blank">
+        <img src="https://github.com/sgcm14/sgcm14/blob/main/google-tag-manager.svg" width="30" height="30"/>
+    </a>
+    <a href="https://optimize.google.com/" target="_blank">
+        <img src="https://github.com/sgcm14/sgcm14/blob/main/google-optimize.svg" width="30" height="30"/>
+    </a>
+    <a href="https://www.netlify.com/" target="_blank">
+        <img src="https://github.com/sgcm14/sgcm14/blob/main/netlify.svg" width="30" height="30"/>
+    </a>
 
 </p>
 
