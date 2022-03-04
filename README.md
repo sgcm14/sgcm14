@@ -95,11 +95,11 @@ Here are some ideas to get you started:
     <a href="https://jestjs.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/jest.svg" width="30" height="30"/>
     </a>
-    <a href="https://www.postman.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/4f530977e8376afca1086d9ed8bc75c02c0fb56e/postman.svg" width="30" height="30"/>
-    </a>
     <a href="https://angular.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/angularjs.svg" width="30" height="30"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/4f530977e8376afca1086d9ed8bc75c02c0fb56e/postman.svg" width="30" height="30"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30" height="30"/>
