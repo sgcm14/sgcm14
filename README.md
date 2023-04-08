@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/sammy.jpg" width="200"></a></p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Ing.+de+Sistemas+e+Informática+Colegiada;Frontend+Developer+-+Angular"></p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Ing.+de+Sistemas+Colegiada;Frontend+Developer+-+Angular"></p>
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{sgcm14}/count.svg"></p>
