@@ -38,6 +38,9 @@ Here are some ideas to get you started:
     <a  href="https://www.atlassian.com/es/software/jira" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/cb977f30a463bcb5aa0cbbf0913d13aa961776f0/jira.svg" width="30" height="30"/>
     </a>
+    <a  href="https://trello.com/" target="_blank">
+         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/trello.svg" width="30" height="30"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/git.svg" width="30" height="30"/>
     </a>
@@ -52,6 +55,15 @@ Here are some ideas to get you started:
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/vscode.svg" width="30" height="30"/>
+    </a>
+    <a href="https://www.sonarsource.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/sonarlint.svg" width="30" height="30"/>
+    </a>
+    <a href="https://eslint.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/eslint.svg" width="30" height="30"/>
+    </a>
+     <a href="https://prettier.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/prettier.svg" width="30" height="30"/>
     </a>
     <a href="" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/html5.svg" width="30" height="30"/>
