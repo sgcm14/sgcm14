@@ -65,10 +65,13 @@ Here are some ideas to get you started:
      <a href="https://prettier.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/prettier.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+     <a href="https://markdown.es/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/6c58c26d0480c971dfd5c9d5d86a2778dce2bb14/markdown.svg" width="30" height="30"/>
+    </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/html5.svg" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/css3.svg" width="30" height="30"/>
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
@@ -142,6 +145,9 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.netlify.com/" target="_blank">
         <img src="https://github.com/sgcm14/sgcm14/blob/main/netlify.svg" width="30" height="30"/>
+    </a>
+    <a href="https://railway.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/6c58c26d0480c971dfd5c9d5d86a2778dce2bb14/railway.svg" width="30" height="30"/>
     </a>
 
 </p>
