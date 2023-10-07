@@ -38,6 +38,12 @@ Here are some ideas to get you started:
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/c8b99481dda545c8a48e272303856b8ef59a8617/ubuntu.svg" width="30" height="30"/>
     </a>
+    <a  href="https://discord.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/f8d42a740e0318600b9ea357ca7dbb1b35af2986/discord.svg" width="30" height="30"/>
+    </a>
+    <a  href="https://slack.com/intl/es-la" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/f8d42a740e0318600b9ea357ca7dbb1b35af2986/slack.svg" width="30" height="30"/>
+    </a>
     <a  href="https://www.atlassian.com/es/software/jira" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/cb977f30a463bcb5aa0cbbf0913d13aa961776f0/jira.svg" width="30" height="30"/>
     </a>
