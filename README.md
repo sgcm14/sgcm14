@@ -32,6 +32,9 @@ Here are some ideas to get you started:
     <a href="https://www.microsoft.com/es-es/windows" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30"/>
     </a>
+     <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/linux.svg" width="30" height="30"/>
+    </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/c8b99481dda545c8a48e272303856b8ef59a8617/ubuntu.svg" width="30" height="30"/>
     </a>
@@ -85,6 +88,15 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/acdb820daea2f5102d843bdbd14ec582192088e9/docker.svg" width="30" height="30"/>
+    </a>
+    <a href="https://netbeans.apache.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/netbeans.png" width="30" height="30"/>
+    </a>
+    <a href="https://eclipseide.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/eclipse.svg" width="30" height="30"/>
+    </a>
+    <a href="https://www.jetbrains.com/es-es/idea/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/intellij.svg" width="30" height="30"/>
     </a>
     <a href="https://www.java.com/es/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="30" height="30"/>
@@ -147,7 +159,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/sgcm14/sgcm14/blob/main/netlify.svg" width="30" height="30"/>
     </a>
     <a href="https://railway.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/6c58c26d0480c971dfd5c9d5d86a2778dce2bb14/railway.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/98924667584b83a301f3ad5c76761f82ab37a347/railway.svg" width="30" height="30"/>
     </a>
 
 </p>
