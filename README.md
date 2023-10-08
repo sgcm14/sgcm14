@@ -148,7 +148,13 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e9eea351d25da370259752252f2adae4e9c0630a/mongodb.svg" width="30" height="30"/>
-    </a>    
+    </a>
+    <a href="https://www.oracle.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/001be83ae07157c725840d02fe8faac9b60be63a/oracle.svg" width="30" height="30"/>
+    </a>
+    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/001be83ae07157c725840d02fe8faac9b60be63a/sql.svg" width="30" height="30"/>
+    </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30" height="30"/>
     </a>
