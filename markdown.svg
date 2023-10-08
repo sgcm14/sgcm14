@@ -1,8 +1,7 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g>
-	<path d="M448.5,117.6h-385C45.6,117.6,31,132.1,31,150v212c0,17.9,14.6,32.5,32.5,32.5h385.1c17.9,0,32.5-14.6,32.4-32.4V150
-		C481,132.1,466.4,117.6,448.5,117.6z M269,329.5h-43.2v-84.4l-43.2,54.1l-43.2-54.1v84.4H95.9V182.5h43.2l43.2,54.1l43.2-54.1h43.2
-		v147.1L269,329.5z M364.1,331.7L299.2,256h43.2v-73.5h43.2V256H429L364.1,331.7z"/>
-</g>
+<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<path style="fill:#455A64;" d="M44.125,39H3.875C1.738,39,0,37.295,0,35.2V12.8C0,10.705,1.738,9,3.875,9h40.25
+	C46.262,9,48,10.705,48,12.8v22.4C48,37.295,46.262,39,44.125,39z"/>
+<path style="fill:#FFFFFF;" d="M20.958,16L16,22.72L10.958,16H7v16h3.958V21.333L16,28l5-6.667V32h3.958V16H20.958z M37.958,24v-8
+	H34v8h-5.042L36,32l6.958-8H37.958z"/>
 </svg>
