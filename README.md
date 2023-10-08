@@ -108,7 +108,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="30" height="30"/>
     </a>
     <a href="https://www.php.net/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/php.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/php.png" width="30" height="30"/>
     </a>
      <a href="https://nestjs.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/112e1f9243ea534c2e2c0a5e93b5b69be058ac09/nestjs.svg" width="30" height="30"/>
