@@ -54,7 +54,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/git.svg" width="30" height="30"/>
     </a>
     <a  href="https://github.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/github.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/github.png" width="30" height="30"/>
     </a>
     <a  href="https://about.gitlab.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1370a6504cb1cca5ffce0a3eb67cbbb2c637b09a/gitlab.svg" width="30" height="30"/>
