@@ -50,6 +50,12 @@ Here are some ideas to get you started:
     <a  href="https://trello.com/" target="_blank">
          <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/trello.svg" width="30" height="30"/>
     </a>
+      <a  href="https://aws.amazon.com/es" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/amazonwebservice.svg" width="30" height="30"/>
+    </a>
+     <a  href="https://www.ansible.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/ansible.svg" width="30" height="30"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/git.svg" width="30" height="30"/>
     </a>
@@ -157,6 +163,9 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30" height="30"/>
+    </a>
+     <a href="https://mariadb.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/mariadb.svg" width="30" height="30"/>
     </a>
     <a href="https://firebase.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="30" height="30"/>
