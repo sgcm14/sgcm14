@@ -71,6 +71,9 @@ Here are some ideas to get you started:
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/vscode.svg" width="30" height="30"/>
     </a>
+    <a href="https://sentry.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2edd25d5bc281ec5dad7e3a541092caf49f577e7/sentry.svg" width="30" height="30"/>
+    </a>
     <a href="https://www.sonarsource.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/sonarlint.svg" width="30" height="30"/>
     </a>
@@ -173,8 +176,14 @@ Here are some ideas to get you started:
     <a href="https://tagmanager.google.com/" target="_blank">
         <img src="https://github.com/sgcm14/sgcm14/blob/main/google-tag-manager.svg" width="30" height="30"/>
     </a>
+    <a href="https://amplitude.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2edd25d5bc281ec5dad7e3a541092caf49f577e7/amplitude.svg" width="30" height="30"/>
+    </a>
     <a href="https://optimize.google.com/" target="_blank">
         <img src="https://github.com/sgcm14/sgcm14/blob/main/google-optimize.svg" width="30" height="30"/>
+    </a>
+     <a href="https://www.growthbook.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2edd25d5bc281ec5dad7e3a541092caf49f577e7/growthbook.svg" width="30" height="30"/>
     </a>
     <a href="https://www.netlify.com/" target="_blank">
         <img src="https://github.com/sgcm14/sgcm14/blob/main/netlify.svg" width="30" height="30"/>
@@ -182,7 +191,9 @@ Here are some ideas to get you started:
     <a href="https://railway.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/98924667584b83a301f3ad5c76761f82ab37a347/railway.svg" width="30" height="30"/>
     </a>
-
+    <a href="https://www.selenium.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2edd25d5bc281ec5dad7e3a541092caf49f577e7/selenium.svg" width="30" height="30"/>
+    </a>
 </p>
 
 <p align="center">
