@@ -101,6 +101,12 @@ Here are some ideas to get you started:
      <a  href="https://www.ansible.com" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/ansible.svg" width="30" height="30"/>
     </a>
+    <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/vmware_workstation.png" width="30" height="30"/>
+    </a>
+    <a href="https://www.virtualbox.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/virtualbox.png" width="30" height="30"/>
+    </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/acdb820daea2f5102d843bdbd14ec582192088e9/docker.svg" width="30" height="30"/>
     </a>
