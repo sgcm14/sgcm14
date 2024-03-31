@@ -38,6 +38,12 @@ Here are some ideas to get you started:
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/c8b99481dda545c8a48e272303856b8ef59a8617/ubuntu.svg" width="30" height="30"/>
     </a>
+    <a href="https://anydesk.com/es" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/34efc7c45a9551d48382bbf1a5a1e27780d833ad/anydesk.svg" width="30" height="30"/>
+    </a>
+    <a href="https://www.teamviewer.com/latam/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/34efc7c45a9551d48382bbf1a5a1e27780d833ad/teamviewer.svg" width="30" height="30"/>
+    </a>
     <a  href="https://discord.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/f8d42a740e0318600b9ea357ca7dbb1b35af2986/discord.svg" width="30" height="30"/>
     </a>
