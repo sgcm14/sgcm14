@@ -177,7 +177,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/sgcm14/sgcm14/blob/main/google-tag-manager.svg" width="30" height="30"/>
     </a>
     <a href="https://amplitude.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2edd25d5bc281ec5dad7e3a541092caf49f577e7/amplitude.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e0da7119bedf8b4961dc093d27ffb2dbffca79e3/amplitude.svg" width="30" height="30"/>
     </a>
     <a href="https://optimize.google.com/" target="_blank">
         <img src="https://github.com/sgcm14/sgcm14/blob/main/google-optimize.svg" width="30" height="30"/>
@@ -192,7 +192,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/98924667584b83a301f3ad5c76761f82ab37a347/railway.svg" width="30" height="30"/>
     </a>
     <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2edd25d5bc281ec5dad7e3a541092caf49f577e7/selenium.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e0da7119bedf8b4961dc093d27ffb2dbffca79e3/selenium.svg" width="30" height="30"/>
     </a>
 </p>
 
