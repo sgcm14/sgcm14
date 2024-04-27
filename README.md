@@ -152,6 +152,9 @@ Here are some ideas to get you started:
     <a href="https://www.npmjs.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="30" height="30"/>
     </a>
+    <a href="https://junit.org/junit5/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/8bd161dd7726f00d3c78b30728b17ad34fbe34f4/junit.svg" width="30" height="30"/>
+    </a>
     <a href="https://jestjs.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/jest.svg" width="30" height="30"/>
     </a>
