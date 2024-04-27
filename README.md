@@ -152,6 +152,9 @@ Here are some ideas to get you started:
     <a href="https://www.npmjs.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="30" height="30"/>
     </a>
+    <a href="https://www.selenium.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e0da7119bedf8b4961dc093d27ffb2dbffca79e3/selenium.svg" width="30" height="30"/>
+    </a>
     <a href="https://junit.org/junit5/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/8bd161dd7726f00d3c78b30728b17ad34fbe34f4/junit.svg" width="30" height="30"/>
     </a>
@@ -205,9 +208,6 @@ Here are some ideas to get you started:
     </a>
     <a href="https://railway.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/98924667584b83a301f3ad5c76761f82ab37a347/railway.svg" width="30" height="30"/>
-    </a>
-    <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e0da7119bedf8b4961dc093d27ffb2dbffca79e3/selenium.svg" width="30" height="30"/>
     </a>
 </p>
 
