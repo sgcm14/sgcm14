@@ -51,7 +51,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/f8d42a740e0318600b9ea357ca7dbb1b35af2986/slack.svg" width="30" height="30"/>
     </a>
     <a  href="https://www.atlassian.com/es/software/jira" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/cb977f30a463bcb5aa0cbbf0913d13aa961776f0/jira.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e2f49d2d1074a3bbe81c4f2383fdd47d066407ee/jira.svg" width="30" height="30"/>
     </a>
     <a  href="https://trello.com/" target="_blank">
          <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/trello.svg" width="30" height="30"/>
