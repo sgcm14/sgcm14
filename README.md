@@ -116,6 +116,9 @@ Here are some ideas to get you started:
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/acdb820daea2f5102d843bdbd14ec582192088e9/docker.svg" width="30" height="30"/>
     </a>
+     <a href="https://spring.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e5f74fcfb5fc0f397ce38325c4c71da9bc5e1ffe/spring.svg" width="30" height="30"/>
+    </a>
     <a href="https://netbeans.apache.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/netbeans.png" width="30" height="30"/>
     </a>
@@ -123,7 +126,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/eclipse.svg" width="30" height="30"/>
     </a>
     <a href="https://www.jetbrains.com/es-es/idea/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/intellij.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e5f74fcfb5fc0f397ce38325c4c71da9bc5e1ffe/intellij.svg" width="30" height="30"/>
     </a>
     <a href="https://www.java.com/es/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/java.svg" width="30" height="30"/>
@@ -148,6 +151,9 @@ Here are some ideas to get you started:
     </a>
     <a href="https://nodejs.org/es/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/nodejs.svg" width="30" height="30"/>
+    </a>
+    <a href="https://maven.apache.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e5f74fcfb5fc0f397ce38325c4c71da9bc5e1ffe/maven.svg" width="30" height="30"/>
     </a>
     <a href="https://www.npmjs.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="30" height="30"/>
