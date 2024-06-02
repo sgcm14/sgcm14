@@ -71,18 +71,6 @@ Here are some ideas to get you started:
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/vscode.svg" width="30" height="30"/>
     </a>
-    <a href="https://sentry.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2edd25d5bc281ec5dad7e3a541092caf49f577e7/sentry.svg" width="30" height="30"/>
-    </a>
-    <a href="https://www.sonarsource.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/sonarlint.svg" width="30" height="30"/>
-    </a>
-    <a href="https://eslint.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/eslint.svg" width="30" height="30"/>
-    </a>
-     <a href="https://prettier.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a80baf5c49654c932c5ddf4b4e4a4c276dad9fc8/prettier.svg" width="30" height="30"/>
-    </a>
      <a href="https://markdown.es/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/d458fb7ec3ade119c2480efee2fde0c1eb60a1eb/markdown.svg" width="30" height="30"/>
     </a>
