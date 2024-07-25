@@ -164,6 +164,9 @@ Here are some ideas to get you started:
     <a href="https://es.react.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1ce572a7a286fabdfb7c5095ccefefb8d40a36a5/react.svg"  width="30" height="30"/>
     </a>
+     <a href="https://vitejs.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/40732a84ed78e8e2dd0125cf8f0ba1f1986cd37f/vitejs.svg"  width="30" height="30"/>
+    </a>
     <a href="https://www.postman.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/4f530977e8376afca1086d9ed8bc75c02c0fb56e/postman.svg" width="30" height="30"/>
     </a>
