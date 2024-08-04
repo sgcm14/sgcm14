@@ -92,8 +92,14 @@ Here are some ideas to get you started:
     <a  href="https://aws.amazon.com/es" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/amazonwebservice.svg" width="30" height="30"/>
     </a>
+     <a  href="https://aws.amazon.com/es/cloudformation/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a161f9c0209a1facde1ed96efa061ceb26978a86/aws-cloudformation.svg" width="30" height="30"/>
+    </a>
      <a  href="https://www.ansible.com" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/ansible.svg" width="30" height="30"/>
+    </a>
+    <a  href="https://www.terraform.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/a161f9c0209a1facde1ed96efa061ceb26978a86/terraform.svg" width="30" height="30"/>
     </a>
     <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/main/vmware_workstation.png" width="30" height="30"/>
