@@ -173,6 +173,9 @@ Here are some ideas to get you started:
      <a href="https://vitejs.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/40732a84ed78e8e2dd0125cf8f0ba1f1986cd37f/vitejs.svg"  width="30" height="30"/>
     </a>
+     <a href="https://swagger.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/cfb9861e7b01626b510fec846d0887fc920d1020/swagger.svg" width="30" height="30"/>
+    </a>
     <a href="https://www.postman.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/4f530977e8376afca1086d9ed8bc75c02c0fb56e/postman.svg" width="30" height="30"/>
     </a>
