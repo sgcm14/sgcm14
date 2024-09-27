@@ -200,7 +200,7 @@ Here are some ideas to get you started:
     <a href="https://www.netlify.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/ef22aefda52787fe378faf55d4041947330134bf/netlify.svg" width="30" height="30"/>
     </a>
-     <a href="" target="_blank">
+     <a href="https://vercel.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/refs/heads/main/vercel.png" width="30" height="30"/>
     </a>
     <a href="https://railway.app/" target="_blank">
