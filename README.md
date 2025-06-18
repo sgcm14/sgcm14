@@ -237,7 +237,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" height="30" width="30">
       </a>
       <a href="http://twitter.com/sgcm14" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/twitter.svg" height="30" width="30">
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/dde845cf94553348c7610b696b0d67ea0594a59c/twitterx.svg" height="30" width="30">
       </a>
       <a href="https://youtube.com/sgcm14" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/youtube.svg" height="30" width="30">
