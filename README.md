@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 
 
 <!--<p align="center"><img src="https://profile-counter.glitch.me/{sgcm14}/count.svg"></p>-->
+
 <p align="center">
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsgcm14&label=Visitors&icon=laptop&color=%23d63384&message=&style=flat&tz=UTC)
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsgcm14&label=Visitors&icon=laptop&color=%23d63384&message=&style=flat&tz=UTC" alt="Badge" />
 </p>
+
+
 
 <br>
 
