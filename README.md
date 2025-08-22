@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=%23F7479B&lines=Ing.+de+Sistemas+Colegiada;Frontend+Developer+-+Angular"></p>
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{sgcm14}/count.svg"></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/{sgcm14}/count.svg"></p>-->
+[![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sgcm14&title=Visitas)](https://hits.seeyoufarm.com)
+
 
 <br>
 
