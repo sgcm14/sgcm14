@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 <p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
     <a href="https://www.microsoft.com/es-es/windows" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30" style="display:inline-block; margin:5px;"/>
     </a>
     <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/linux.svg" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/linux.svg" width="30" height="30" style="display:inline-block; margin:5px;"/>
     </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/c8b99481dda545c8a48e272303856b8ef59a8617/ubuntu.svg" width="30" height="30"/>
