@@ -99,16 +99,17 @@ Here are some ideas to get you started:
 <tr>
 <td><a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/ebfc24a69060c4b496ebd8b86a6fea561b9791d9/angular.svg" width="30"></a></td>
 <td><a href="https://es.react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1ce572a7a286fabdfb7c5095ccefefb8d40a36a5/react.svg" width="30"></a></td>
+  <td><a href="https://astro.build/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/8a40dd090bf2948b84ccd364618ada754eb7d2a2/astro.svg" width="30"></a></td>
 <td><a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/40732a84ed78e8e2dd0125cf8f0ba1f1986cd37f/vitejs.svg" width="30"></a></td>
 <td><a href="https://swagger.io/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/cfb9861e7b01626b510fec846d0887fc920d1020/swagger.svg" width="30"></a></td>
 <td><a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/4f530977e8376afca1086d9ed8bc75c02c0fb56e/postman.svg" width="30"></a></td>
 <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e9eea351d25da370259752252f2adae4e9c0630a/mongodb.svg" width="30"></a></td>
 <td><a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/001be83ae07157c725840d02fe8faac9b60be63a/oracle.svg" width="30"></a></td>
 <td><a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/001be83ae07157c725840d02fe8faac9b60be63a/sql.svg" width="30"></a></td>
-<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30"></a></td>
 </tr>
 
 <tr>
+<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/mysql.svg" width="30"></a></td>
 <td><a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/mariadb.svg" width="30"></a></td>
 <td><a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="30"></a></td>
 <td><a href="https://www.netlify.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/ef22aefda52787fe378faf55d4041947330134bf/netlify.svg" width="30"></a></td>
