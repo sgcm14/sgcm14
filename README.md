@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <h3 align="center">Tecnologías que uso y sigo aprendiendo</h3>
 
 <table align="center">
+
 <tr>
 <td><a href="https://www.microsoft.com/es-es/windows" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30"></a></td>
 <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/linux.svg" width="30"></a></td>
@@ -84,6 +85,18 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
+<td><a href="https://www.ruby-lang.org/es/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/ruby.svg" width="30"></a></td>
+<td><a href="https://wordpress.com/es" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/wordpress.svg" width="30"></a></td>
+<td><a href="https://nodejs.org/es/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/nodejs.svg" width="30"></a></td>
+<td><a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e5f74fcfb5fc0f397ce38325c4c71da9bc5e1ffe/maven.svg" width="30"></a></td>
+<td><a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/npm.svg" width="30"></a></td>
+<td><a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/e0da7119bedf8b4961dc093d27ffb2dbffca79e3/selenium.svg" width="30"></a></td>
+<td><a href="https://junit.org/junit5/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/8bd161dd7726f00d3c78b30728b17ad34fbe34f4/junit.svg" width="30"></a></td>
+<td><a href="https://jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1f6ed0fa04190e151fe7e8b11c443be87538cd27/jest.svg" width="30"></a></td>
+<td><a href="https://jasmine.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/5603dedfd15e5269508547f309362e435800ecab/jasmine.svg" width="30"></a></td>
+</tr>
+
+<tr>
 <td><a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/ebfc24a69060c4b496ebd8b86a6fea561b9791d9/angular.svg" width="30"></a></td>
 <td><a href="https://es.react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/1ce572a7a286fabdfb7c5095ccefefb8d40a36a5/react.svg" width="30"></a></td>
 <td><a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/40732a84ed78e8e2dd0125cf8f0ba1f1986cd37f/vitejs.svg" width="30"></a></td>
@@ -96,12 +109,14 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
+<td><a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/25364b1024575618f7422ee7bdc62bab4d2afacd/mariadb.svg" width="30"></a></td>
 <td><a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/firebase.svg" width="30"></a></td>
 <td><a href="https://www.netlify.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/ef22aefda52787fe378faf55d4041947330134bf/netlify.svg" width="30"></a></td>
 <td><a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/refs/heads/main/vercel.png" width="30"></a></td>
 <td><a href="https://railway.app/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/98924667584b83a301f3ad5c76761f82ab37a347/railway.svg" width="30"></a></td>
 <td><a href="https://www.growthbook.io/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/70d7735dda1473e84b890980715ee6fb702001e0/growthbook.svg" width="30"></a></td>
 </tr>
+
 </table>
 
 <p align="center">
