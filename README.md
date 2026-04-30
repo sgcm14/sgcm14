@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">Tecnologías que uso y sigo aprendiendo</h3>
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
     <a href="https://www.microsoft.com/es-es/windows" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/windows.svg" width="30" height="30"/>
-    </a><a href="https://www.linux.org/" target="_blank">
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2a0e18a15b68201c65a8335a3f3856f7947c48f4/linux.svg" width="30" height="30"/>
     </a>
     <a href="https://ubuntu.com/" target="_blank">
@@ -228,7 +229,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Follow me</h3>
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
       <a href="https://linkedin.com/in/sgcm14/" target="_blank">
         <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/linkedin.svg" height="30" width="30">
       </a>
