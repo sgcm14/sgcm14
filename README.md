@@ -229,17 +229,19 @@ Here are some ideas to get you started:
 
 <h3 align="center">Follow me</h3>
 
+<h3 align="center">Follow me</h3>
+
 <table align="center">
 <tr>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/linkedin.svg" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/instagram.svg" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/dde845cf94553348c7610b696b0d67ea0594a59c/tik-tok.svg" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/facebook.svg" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/dde845cf94553348c7610b696b0d67ea0594a59c/twitterx.svg" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/youtube.svg" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/duolingo.png" width="30"></td>
-<td><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/telegram.svg" width="30"></td>
+<td><a href="https://linkedin.com/in/sgcm14/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/linkedin.svg" width="30"></a></td>
+<td><a href="https://www.instagram.com/sgcm14/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/instagram.svg" width="30"></a></td>
+<td><a href="https://www.tiktok.com/@sgcm14" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/dde845cf94553348c7610b696b0d67ea0594a59c/tik-tok.svg" width="30"></a></td>
+<td><a href="https://www.facebook.com/sgcm14" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/facebook.svg" width="30"></a></td>
+<td><a href="https://www.pinterest.com/sgcm14/" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/pinterest.svg" width="30"></a></td>
+<td><a href="http://twitter.com/sgcm14" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/dde845cf94553348c7610b696b0d67ea0594a59c/twitterx.svg" width="30"></a></td>
+<td><a href="https://youtube.com/sgcm14" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/youtube.svg" width="30"></a></td>
+<td><a href="https://www.duolingo.com/profile/sgcm14" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/duolingo.png" width="30"></a></td>
+<td><a href="https://t.me/sgcm14" target="_blank"><img src="https://raw.githubusercontent.com/sgcm14/sgcm14/770666204fc98fec4546b9653966f6e16a7d97a8/telegram.svg" width="30"></a></td>
 </tr>
 </table>
 
